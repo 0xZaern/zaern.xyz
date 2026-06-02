@@ -14,4 +14,6 @@ Here you'll find:
 
 Building in public.
 
+https://zaern.xyz
+
 ⟡ zærn
